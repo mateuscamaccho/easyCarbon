@@ -1,4 +1,4 @@
-### easyCarbon
+### EasyCarbon
 Primeiro projeto criado para um trabalho de faculdade no ano de 2020. Foram utilizados HTML, CSS e Jquery.
 
 ## Tech
@@ -9,7 +9,7 @@ HTML, CSS, Bootstrap e Jquery
 
 Você pode ver o projeto através do link abaixo :)
 
-<a href="http://easycarbon.herokuapp.com/" target="_blank" alt="">Buscador CEP</a>
+<a href="http://easycarbon.herokuapp.com/" target="_blank" alt="">EasyCarbon</a>
 
 ---
 ## Tech Mateus
